@@ -15,3 +15,6 @@
 
 #Favorite Color
 * I always thought it was orange, but I wear a lot of blue, so I'll say blue.
+
+#Favorite Food
+* Any kind of seafood is my favorite food.
