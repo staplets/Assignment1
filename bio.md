@@ -12,3 +12,6 @@
 #Programming Background
 * My favorite programming project in 161 was my final project where I created an interactive "Where in the world is Carmen San Diego" game.
 * My favorite programming project in 162 was the 2nd to last project, where I created a quest battle game for monsters.
+
+#Favorite Color
+* I always thought it was orange, but I wear a lot of blue, so I'll say blue.
