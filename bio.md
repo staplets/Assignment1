@@ -10,3 +10,4 @@
 * I have also been to Europe and last year I completed a cross country road trip, where I was able to drive through 32 states.
 
 #Programming Background
+* My favorite programming project in 161 was my final project where I created an interactive "Where in the world is Carmen San Diego" game.
