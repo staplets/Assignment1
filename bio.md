@@ -18,3 +18,5 @@
 
 #Favorite Food
 * Any kind of seafood is my favorite food.
+
+Creating a merge conflict for the master branch.
